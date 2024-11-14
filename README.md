@@ -6,4 +6,4 @@
 
 
 
--To test the POST route you can use Postman or any similar tool. Send a post request to localhost:8080/posts with a json "body": "message".
+- To test the POST route you can use Postman or any similar tool. Send a post request to localhost:8080/posts with a json "body": "message".
